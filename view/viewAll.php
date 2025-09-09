@@ -8,7 +8,7 @@
   </head>
   <body>
       <table class="table">
-        <thead>
+        <thead class="table-primary">
             <tr>
                 <th scope="col">ID</th>
                 <th scope="col">Nama</th>
