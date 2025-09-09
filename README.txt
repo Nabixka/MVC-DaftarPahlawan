@@ -4,3 +4,4 @@ commit pertama Add DB/connect
 commit kedua Add model/get
 commit ketiga Add controller/read
 commit keempat Add view
+commit kelima Add viewAll
