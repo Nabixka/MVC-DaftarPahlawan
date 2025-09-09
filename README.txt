@@ -11,3 +11,4 @@ commit kedelapan Add index.php
 commit kesembilan perbaikan kode connect.php dan penamaan folder controller
 commit sepuluh perbaikan kode 
 commit kesebelas desain table
+commit kedua belaas desain table viewById
