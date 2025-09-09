@@ -7,3 +7,4 @@ commit keempat Add view
 commit kelima Add viewAll
 commit keenam Add viewById
 commit ketujuh Modify view code
+commit kedelapan Add index.php
